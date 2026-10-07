@@ -1,0 +1,24 @@
+{
+  "name": "avaliacaonodeAPI",
+  "version": "1.0.0",
+  "description": "avaliacao node API",
+  "homepage": "https://github.com/VivianeKlein/avaliacaonodeAPI#readme",
+  "bugs": {
+    "url": "https://github.com/VivianeKlein/avaliacaonodeAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianeKlein/avaliacaonodeAPI.git"
+  },
+  "license": "ISC",
+  "author": "viviane",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
